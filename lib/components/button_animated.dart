@@ -97,6 +97,7 @@ class _AnimatedButtonState extends State<AnimatedButton>
                   begin: Alignment.topCenter,
                   end: Alignment.bottomCenter,
                   colors: [
+                    Color.fromARGB(255, 255, 210, 63),
                     Color.fromARGB(255, 255, 193, 10),
                     Color.fromARGB(255, 230, 180, 26),
                     Color.fromARGB(255, 214, 160, 80),
